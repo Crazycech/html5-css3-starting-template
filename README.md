@@ -1,10 +1,10 @@
 # Clear HTML5, CSS3, LESS, JS - teplate
 ##Personal clear starting project
 
-This is a small project of clear html5, css3 work template prepared ready to just start coding with some usefull plugins. Over some years i have started to build my own clear project for making my starts easier next time. This is the result sofar. It includes some css libraries for hovers and animations and some js libraries for handling swipes, scrolls and mobile menus. 
+This is a small project of clear html5, css3 work template prepared ready to just start coding with some usefull plugins. Over some years I have started to build my own clear project for making my starts easier next time. This is the result sofar. It includes some css libraries for hovers and animations and some js libraries for handling swipes, scrolls and mobile menus. 
 On some project I started to using WOW.js for the WOW effect... check the link below for more information.
 
-First of all this template is using less.js i have included less.bat file neccesarry for NetBeans.
+First of all this template is using less.js I have included less.bat file neccesarry for NetBeans.
 
 ##This template includes css libraries hover.css and animate.css 
 
@@ -44,12 +44,12 @@ https://github.com/mattbryson/TouchSwipe-Jquery-Plugin
 - slickNav.js
 - touchSwipe.js
 
-####In less i prepared for you:
+####In less I prepared for you:
 - animation.css and hover.css included
 - basic settings
 - web structure
 
-####In file scripts.js i prepared for you:
+####In file scripts.js I prepared for you:
 - basic samles of plugin uses
 - basic functions
 
