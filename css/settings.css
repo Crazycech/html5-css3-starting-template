@@ -1,0 +1,70 @@
+body {
+  padding: 0;
+  margin: 0;
+  float: left;
+  position: relative;
+  font-family: calibri;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+a,
+p,
+img {
+  line-height: 1;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+a,
+button,
+.a,
+.button,
+input[type=submit] {
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1;
+  padding: 0;
+  margin: 0;
+}
+section,
+header,
+footer {
+  float: left;
+  width: 100%;
+  min-width: 1170px;
+  position: relative;
+  text-align: center;
+  z-index: 1;
+}
+section,
+header,
+footer,
+aside,
+div,
+input,
+p,
+a,
+span {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.wrap {
+  width: 1170px;
+  display: inline-block;
+  margin: 0px auto;
+  text-align: left;
+}
+.row {
+  float: left;
+  width: 100%;
+}
+/*# sourceMappingURL=settings.css.map */
