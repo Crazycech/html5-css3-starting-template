@@ -4,7 +4,7 @@
 This is a small project of clear html5, css3 work template prepared ready to just start coding with some usefull plugins. Over some years I have started to build my own clear project for making my starts easier next time. This is the result sofar. It includes some css libraries for hovers and animations and some js libraries for handling swipes, scrolls and mobile menus. 
 On some project I started to using WOW.js for the WOW effect... check the link below for more information.
 
-First of all this template is using less.js I have included less.bat file neccesarry for NetBeans.
+First of all this template is using less.js I have included all files neccesarry for NetBeans.
 
 ##This template includes css libraries hover.css and animate.css 
 
@@ -25,24 +25,20 @@ https://github.com/flesler/jquery.scrollTo
 http://slicknav.com/
 - for me best way how to automaticly generate a mobile menu from normal
 
-https://github.com/mattbryson/TouchSwipe-Jquery-Plugin
-- Do you need a swipe handling on your website? easy with this. 
-
 
 ##General
 
 ###This web-template is made with and good for:
-- Html5
-- Responsive design
+- Html5 standart
+- Responsive template
 - CSS3 - animations etc...
-- less
-- Jquery 
+- less.js
+- JQuery 
 - wow.js
 - animations.css
 - hover.css
 - scrollTo.js
 - slickNav.js
-- touchSwipe.js
 
 ####In less I prepared for you:
 - animation.css and hover.css included
@@ -50,7 +46,7 @@ https://github.com/mattbryson/TouchSwipe-Jquery-Plugin
 - web structure
 
 ####In file scripts.js I prepared for you:
-- basic samles of plugin uses
+- basic samles of plugin usages
 - basic functions
 
 Thank you for viewing or using.
