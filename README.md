@@ -1,4 +1,4 @@
-# Clear HTML5, CSS3, LESS, JS - teplate
+# Clear HTML5, CSS3, LESS, JS - template
 ##Personal clear starting project
 
 This is a small project of clear html5, css3 work template prepared ready to just start coding with some usefull plugins. Over some years I have started to build my own clear project for making my starts easier next time. This is the result sofar. It includes some css libraries for hovers and animations and some js libraries for handling swipes, scrolls and mobile menus. 
@@ -14,7 +14,7 @@ http://ianlunn.github.io/Hover/
 https://daneden.github.io/animate.css/
 - alot of custom animations for your website
 
-##With combination of js plugins like wow.js, sctollTo.js, slickNav.js and touchSwipe.js
+##With combination of js plugins like wow.js, sctollTo.js, slickNav.js and owl.carousel.js
 
 http://mynameismatthieu.com/WOW/ 
 - revealing animations and website elements on scroll
@@ -24,6 +24,9 @@ https://github.com/flesler/jquery.scrollTo
 
 http://slicknav.com/
 - for me best way how to automaticly generate a mobile menu from normal
+
+https://github.com/smashingboxes/OwlCarousel2
+- best, easy to use, editable, css3, responsive, dragable slider for web use! 
 
 
 ##General
@@ -39,6 +42,7 @@ http://slicknav.com/
 - hover.css
 - scrollTo.js
 - slickNav.js
+- owl carousel 2 
 
 ####In less I prepared for you:
 - animation.css and hover.css included
