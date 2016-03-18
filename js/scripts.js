@@ -25,14 +25,12 @@ $( document ).ready(function() { //when document is ready
 
     });
 
-    $("#swipe").swipe({ //basic usage of swipe plugin for touch devices
-      swipeLeft:function(event, direction, distance, duration, fingerCount) {
-        //This only fires when the user swipes left
-      },
-      swipeRight:function(event, direction, distance, duration, fingerCount) {
-        //This only fires when the user swipes right
-      }
-    });
+   $('.owl-carousel').owlCarousel({
+		oop:true,
+	 	margin:10,
+	    	nav:true
+   	
+   });
     
     
 });
